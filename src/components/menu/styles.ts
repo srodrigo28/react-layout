@@ -10,7 +10,6 @@ export const Container = styled.div`
         justify-content: center;
     }
     > ul > li {
-        background-color: antiquewhite;
         width: 200px;
         padding: 10px;
         text-align: center;
